@@ -3,4 +3,4 @@ Natural language processing (NLP) is a branch of artificial intelligence that he
 
 ![](https://www.blumeglobal.com/wp-content/uploads/2018/11/NLP-image.jpg)
 
-NB : **More notebooks will uploaded Soon on this area **
+NB : **More notebooks will uploaded Soon on this area**
